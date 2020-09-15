@@ -1,0 +1,13 @@
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.exe
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.deps.json
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.runtimeconfig.json
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.runtimeconfig.dev.json
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.dll
+D:\baitap\ThemPhanTuVaoMang\bin\Debug\netcoreapp3.1\ThemPhanTuVaoMang.pdb
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.csprojAssemblyReference.cache
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.AssemblyInfoInputs.cache
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.AssemblyInfo.cs
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.csproj.CoreCompileInputs.cache
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.dll
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.pdb
+D:\baitap\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.genruntimeconfig.cache
